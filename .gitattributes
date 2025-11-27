@@ -1,0 +1,2 @@
+# Ensure GitHub Linguist only recognizes Rust
+* linguist-language=Rust

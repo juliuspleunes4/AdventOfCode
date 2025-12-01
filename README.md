@@ -15,8 +15,11 @@ Expect to see my code evolve as I learn more about Rust patterns and best practi
 ```
 .
 ├── day01/
-│   ├── puzzle.txt
-│   └── code.rs
+│   ├── puzzle/
+│   │   ├── puzzle.txt
+│   │   └── puzzle_input.txt
+│   ├── part1.rs
+│   └── part2.rs
 ├── day02/
 │   └── ...
 ├── .gitignore
@@ -24,7 +27,10 @@ Expect to see my code evolve as I learn more about Rust patterns and best practi
 └── README.md
 ```
 
-Each day's solution is organized in its own directory with separate files for each part of the challenge.
+Each day's solution is organized in its own directory with:
+- `puzzle/` - Contains the puzzle description and input data
+- `part1.rs` - Solution for Part 1
+- `part2.rs` - Solution for Part 2
 
 ## 🚀 Getting Started
 
@@ -37,14 +43,15 @@ Each day's solution is organized in its own directory with separate files for ea
 ```bash
 # Compile and run a specific day's solution
 cd day01
-rustc code.rs && ./code
+rustc part1.rs && ./part1
+rustc part2.rs && ./part2
 ```
 
 ## 📅 Progress
 
 | Day | Part 1 | Part 2 | Notes |
 |-----|--------|--------|-------|
-| [Day 1](./day01) | ⬜ | ⬜ | |
+| [Day 1](./day01) | ✅ | ✅ | Secret Entrance |
 | [Day 2](./day02) | ⬜ | ⬜ | |
 | [Day 3](./day03) | ⬜ | ⬜ | |
 | ... | ... | ... | ... |

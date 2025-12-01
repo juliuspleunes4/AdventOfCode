@@ -19,3 +19,6 @@ Thumbs.db
 # Misc
 .env
 *.log
+
+# Ignore all .exe files
+*.exe

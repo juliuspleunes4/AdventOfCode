@@ -51,8 +51,8 @@ rustc part2.rs && ./part2
 
 | Day | Part 1 | Part 2 | Notes |
 |-----|--------|--------|-------|
-| [Day 1](./day01) | ✅ | ✅ | Secret Entrance |
-| [Day 2](./day02) | ⬜ | ⬜ | |
+| [Day 1](./day01) | ✅ | ✅ | Secret Entrance - Dial rotations and zero crossings |
+| [Day 2](./day02) | ✅ | ✅ | Gift Shop - Finding repeating digit patterns |
 | [Day 3](./day03) | ⬜ | ⬜ | |
 | ... | ... | ... | ... |
 

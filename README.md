@@ -54,6 +54,7 @@ rustc part2.rs && ./part2
 | [Day 1](./day01) | ✅ | ✅ | Secret Entrance - Dial rotations and zero crossings |
 | [Day 2](./day02) | ✅ | ✅ | Gift Shop - Finding repeating digit patterns |
 | [Day 3](./day03) | ✅ | ✅ | Lobby - Battery joltage optimization with subsequences |
+| [Day 4](./day04) | ✅ | ✅ | Printing Department - Grid neighbor analysis and iterative removal |
 | ... | ... | ... | ... |
 
 Legend: ✅ Complete | ⬜ Not Started | 🚧 In Progress

@@ -55,6 +55,7 @@ rustc part2.rs && ./part2
 | [Day 2](./day02) | ✅ | ✅ | Gift Shop - Finding repeating digit patterns |
 | [Day 3](./day03) | ✅ | ✅ | Lobby - Battery joltage optimization with subsequences |
 | [Day 4](./day04) | ✅ | ✅ | Printing Department - Grid neighbor analysis and iterative removal |
+| [Day 5](./day05) | ✅ | ✅ | Cafeteria - Range checking and merging overlapping intervals |
 | ... | ... | ... | ... |
 
 Legend: ✅ Complete | ⬜ Not Started | 🚧 In Progress

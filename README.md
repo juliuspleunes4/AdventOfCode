@@ -56,6 +56,7 @@ rustc part2.rs && ./part2
 | [Day 3](./day03) | ✅ | ✅ | Lobby - Battery joltage optimization with subsequences |
 | [Day 4](./day04) | ✅ | ✅ | Printing Department - Grid neighbor analysis and iterative removal |
 | [Day 5](./day05) | ✅ | ✅ | Cafeteria - Range checking and merging overlapping intervals |
+| [Day 6](./day06) | ✅ | ✅ | Trash Compactor - Cephalopod math with LTR and RTL column parsing |
 | ... | ... | ... | ... |
 
 Legend: ✅ Complete | ⬜ Not Started | 🚧 In Progress

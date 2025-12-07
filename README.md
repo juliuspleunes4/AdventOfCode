@@ -57,6 +57,7 @@ rustc part2.rs && ./part2
 | [Day 4](./day04) | ✅ | ✅ | Printing Department - Grid neighbor analysis and iterative removal |
 | [Day 5](./day05) | ✅ | ✅ | Cafeteria - Range checking and merging overlapping intervals |
 | [Day 6](./day06) | ✅ | ✅ | Trash Compactor - Cephalopod math with LTR and RTL column parsing |
+| [Day 7](./day07) | ✅ | ✅ | Laboratories - Tachyon beam splitting and path counting with memoization |
 | ... | ... | ... | ... |
 
 Legend: ✅ Complete | ⬜ Not Started | 🚧 In Progress

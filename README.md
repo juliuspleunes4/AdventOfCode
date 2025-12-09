@@ -59,6 +59,7 @@ rustc part2.rs && ./part2
 | [Day 6](./day06) | ✅ | ✅ | Trash Compactor - Cephalopod math with LTR and RTL column parsing |
 | [Day 7](./day07) | ✅ | ✅ | Laboratories - Tachyon beam splitting and path counting with memoization |
 | [Day 8](./day08) | ✅ | ✅ | Playground - Minimum spanning tree with Union-Find for 3D junction boxes |
+| [Day 9](./day09) | ✅ | ✅ | Movie Theater - Largest rectangle with polygon containment validation |
 | ... | ... | ... | ... |
 
 Legend: ✅ Complete | ⬜ Not Started | 🚧 In Progress

@@ -60,6 +60,7 @@ rustc part2.rs && ./part2
 | [Day 7](./day07) | ✅ | ✅ | Laboratories - Tachyon beam splitting and path counting with memoization |
 | [Day 8](./day08) | ✅ | ✅ | Playground - Minimum spanning tree with Union-Find for 3D junction boxes |
 | [Day 9](./day09) | ✅ | ✅ | Movie Theater - Largest rectangle with polygon containment validation |
+| [Day 10](./day10) | ✅ | ✅ | Machine Room - Binary toggles (P1) and integer LP with RREF optimization (P2) |
 | ... | ... | ... | ... |
 
 Legend: ✅ Complete | ⬜ Not Started | 🚧 In Progress

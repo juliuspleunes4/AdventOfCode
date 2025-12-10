@@ -22,3 +22,11 @@ Thumbs.db
 
 # Ignore all .exe files
 *.exe
+
+# Ignore target folder
+/target/
+**/target/
+target/
+
+# Ignore Cargo.lock file
+Cargo.lock

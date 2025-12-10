@@ -9,7 +9,7 @@ These were all the implementations i've tried before asking for help:
 [X] Column pivoting: 24488 
 [X] Exact integer Gaussian: 20277 
 [X] Simple greedy (counter order): 31069 
-[X] Backtracking: Getting 58 for test case that should be 10 ❌
+[X] Backtracking: Getting 58 for test case that should be 10
 [X] Efficiency-based greedy: Overflow 
 */
 

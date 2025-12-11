@@ -61,6 +61,7 @@ rustc part2.rs && ./part2
 | [Day 8](./day08) | ✅ | ✅ | Playground - Minimum spanning tree with Union-Find for 3D junction boxes |
 | [Day 9](./day09) | ✅ | ✅ | Movie Theater - Largest rectangle with polygon containment validation |
 | [Day 10](./day10) | ✅ | ✅ | Machine Room - Binary toggles (P1) and integer LP with RREF optimization (P2) |
+| [Day 11](./day11) | ✅ | ✅ | Reactor - Graph path counting with DFS and memoization |
 | ... | ... | ... | ... |
 
 Legend: ✅ Complete | ⬜ Not Started | 🚧 In Progress
